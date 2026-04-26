@@ -1,22 +1,22 @@
 # Sales Dashboard Project
 
-## Tools:
+## Tools :
 
 * Excel
 
-## Description:
+## Description :
 
 This project analyzes sales data to extract insights about revenue, profit, and performance.
 
-## Key Insights:
+## Key Insights :
 
 * West region generates the highest profit
 * Technology category drives most revenue
 * Sales increased in February
 * High discounts reduce profit
 
-## Files:
+## Files :
 
 * Excel Dashboard
 * Screenshots
-[Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](sales_dashboard.png)
