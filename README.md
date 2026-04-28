@@ -19,4 +19,4 @@ This project analyzes sales data to extract insights about revenue, profit, and 
 
 * Excel Dashboard
 * Screenshots
-![Sales Dashboard](image/sales_dashboard.png)
+![Sales Dashboard](Images/sales_dashboard.png)
